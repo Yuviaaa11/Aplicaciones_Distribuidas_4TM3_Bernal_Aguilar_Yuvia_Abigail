@@ -1,0 +1,16 @@
+{
+  "name": "practica_11_03_26",
+  "version": "1.0.0",
+  "description": "practica 11-03-26",
+  "license": "ISC",
+  "author": "yuvia bernal",
+  "type": "commonjs",
+  "main": "insertMongoDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0"
+  }
+}
