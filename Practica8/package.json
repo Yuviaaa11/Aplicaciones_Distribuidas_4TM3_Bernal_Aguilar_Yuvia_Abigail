@@ -1,0 +1,16 @@
+{
+  "name": "practica_23_03_26",
+  "version": "1.0.0",
+  "description": "base de datos",
+  "license": "ISC",
+  "author": "yuvia bernal",
+  "type": "commonjs",
+  "main": "practica8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0"
+  }
+}
