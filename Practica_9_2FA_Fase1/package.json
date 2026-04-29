@@ -1,0 +1,16 @@
+{
+  "name": "practica_9",
+  "version": "1.0.0",
+  "description": "practica 9",
+  "license": "ISC",
+  "author": "yuvia bernal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.2.0"
+  }
+}
